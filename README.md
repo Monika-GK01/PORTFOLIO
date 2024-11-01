@@ -30,15 +30,16 @@
 
 <!-- Hero Section -->
 <section id="hero" class="hero bg-blue-500 text-white py-20 text-center">
-  <h1 class="text-4xl font-bold">Hello, I'm [Your Name]</h1>
-  <p class="mt-4">A Web Developer with a passion for creating beautiful and functional websites.</p>
+  <h1 class="text-4xl font-bold">Hello, I'm Monika</h1>
+  <p class="mt-4">A frontend Web Developer with a passion for creating beautiful and functional websites</p>
 </section>
 
 <!-- About Section -->
 <section id="about" class="about py-20">
   <div class="container text-center">
     <h2 class="text-3xl font-bold mb-6">About Me</h2>
-    <p class="max-w-2xl mx-auto">I'm a web developer with experience in front-end and back-end development...</p>
+    <p class="max-w-2xl mx-auto">I'm Monika, a second-year B.Tech student specializing in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning at MOHAN BABU University.
+I'm currently learning Full stack development with specialization in 4.0 technologies. While I don't yet have formal certifications. My goal is to master full-stack development.I'm eager to connect with professionals and mentors in the tech industry to share knowledge and collaborate.</p>
   </div>
 </section>
 
@@ -47,14 +48,14 @@
   <div class="container text-center">
     <h2 class="text-3xl font-bold mb-6">My Projects</h2>
     <div class="row">
-      <!-- Example Project Card using Bootstrap -->
       <div class="col-md-4 mb-4">
         <div class="card">
           <img src="project1.jpg" class="card-img-top" alt="Project 1">
           <div class="card-body">
-            <h5 class="card-title">Project Title</h5>
-            <p class="card-text">Brief description of the project.</p>
-            <a href="#" class="btn btn-primary">View Project</a>
+            <h5 class="card-title">READY-2-RESCUE EMERGENCY HUB</h5>
+            <p class="card-text">Ready to rescue is my first ever project , which has been done by the mentorship of NxtWave CCBP academy using Generative-AI-tools.
+            I tried to develop a website with which anyone in emergency would be able to have a rescue. </p>
+            <a href="#https://drive.google.com/file/d/1gmb-rY_YnMhqx1K92M4I-XD4iELvXNFT/view" class="btn btn-primary">View Project</a>
           </div>
         </div>
       </div>
@@ -68,9 +69,9 @@
   <div class="container text-center">
     <h2 class="text-3xl font-bold mb-6">Contact Me</h2>
     <form action="https://formspree.io/f/{your_form_id}" method="POST" class="max-w-lg mx-auto">
-      <input type="text" name="name" class="form-control mb-3" placeholder="Your Name" required>
-      <input type="email" name="email" class="form-control mb-3" placeholder="Your Email" required>
-      <textarea name="message" rows="4" class="form-control mb-3" placeholder="Your Message" required></textarea>
+      <input type="text" name="name" class="form-control mb-3" placeholder="MONIKA GK" required>
+      <input type="email" name="email" class="form-control mb-3" placeholder="gkmonika01@gmail.com" required>
+      <textarea name="message" rows="4" class="form-control mb-3" placeholder="STAY CURIOUS" required></textarea>
       <button type="submit" class="btn btn-primary">Send Message</button>
     </form>
   </div>
